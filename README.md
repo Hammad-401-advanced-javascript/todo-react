@@ -5,7 +5,7 @@
 #### To Do List Manager Phase 4: Adding security and access controls to the application.
 
 
-### After Login
+### After Login to app
 ![image](./assets/todo.jpg)
 
 ## Author: Hammad Al
